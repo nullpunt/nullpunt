@@ -1,16 +1,51 @@
-## Hi there 👋
+```
+                                    nulpunt@github
+  ██████  ██                        ──────────────────────────────────────────
+  ██░░░██░██                        OS ............ Human
+ ░██  ░██░██ ██████ ██████  ██████  Role .......... Creative → Python / AI Dev
+ ░███████░██░░██░░█░░██░░█ ░██░░░██ Location ...... Melbourne, Australia
+ ░██░░░██░██ ░██ ░  ░██ ░  ░██  ░██ Status ........ Upskilling. In public.
+ ░██  ░██░██ ░██    ░██    ░██████  Uptime ........ 41yrs
+ ░░   ░░ ░░  ░░     ░░     ░██░░░   IDE ........... VS Code
+                            ░██      
+                            ░░       
+                                    
+                                    ──────────────────────────────────────────
+                                    Languages
+                                    ├── Python .............. [learning ████░░]
+                                    ├── Markdown ............ [fluent  ██████]
+                                    └── Creative Writing .... [fluent  ██████]
+                                    
+                                    Interests
+                                    ├── AI / ML tooling
+                                    ├── Automation & scripting
+                                    ├── Building in public
+                                    └── The gap between creative & technical
+                                    
+                                    ──────────────────────────────────────────
+                                    nulpunt — Dutch: "zero point"
+                                    A defined baseline. A deliberate reset.
+                                    Watching this space.
+```
 
-<!--
-**nullpunt/nullpunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Status |
+|--------|-------------|--------|
+| 🔧 `learning-log` | Public notes from a creative going technical | 🟡 Active |
+| 🤖 `ai-experiments` | Small AI/ML projects as I learn | 🔜 Coming soon |
+| 📁 `tools` | Useful Python scripts for everyday problems | 🔜 Coming soon |
+
+---
+
+### Now
+
+- 📖 Learning Python fundamentals + AI tooling
+- 🔄 Shifting from creative professional → developer
+- 📝 Documenting everything so others can follow the same path
+
+---
+
+<sub>nulpunt · zero point · new build</sub>
